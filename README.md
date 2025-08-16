@@ -13,14 +13,10 @@ Features
 
 How to Run
 
-1. Compile
-
-  javac SudokuPuzzle.java
+1. Compile: javac SudokuPuzzle.java
 
 
-2. Run
-
-  java SudokuPuzzle
+2. Run: java SudokuPuzzle
 
 
 How to Play
