@@ -22,7 +22,9 @@ How to Run
 How to Play
 
 Option 1: Enter a number into the board
+
 Option 2: Solve the puzzle automatically
+
 Option 3: Exit the program
 
 
